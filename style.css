@@ -1,0 +1,33 @@
+.Pp{
+  font-family: Verdana;
+  font-size:18px;
+  background-color:cyan;
+  color:red;
+  
+}
+#div1{border:solid;
+  width:50px;
+  height:50px;
+  background-color:blue;
+  color:blue;
+  position:absolute;
+  top:601,5px;
+  left:10px;
+}
+#div2{border:dashed;
+position:relative;
+  color:red;
+  width:50px;
+  height:50px;
+  background:red;
+  top:px;
+  left:60px;
+}
+#p1{font-size:25px;
+color:grey;
+}
+body{background-color:rgb(245, 247, 250);
+  text:"green";
+}
+p{color:green;}
+h2{color:green;}
