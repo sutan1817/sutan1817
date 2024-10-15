@@ -1,0 +1,19 @@
+nav span{
+padding:40px;
+padding-right:0px;
+}
+#p1{text-align:center;
+font-size:40px;
+}
+#p2{
+  display:inline-block;
+  width:50%;
+}
+#p3{
+  display:inline-block;
+  border:solid;
+  width:40%;
+  float:right;
+}
+
+  
