@@ -1,1 +1,31 @@
-
+span{
+  margin-left:40px;
+}
+h2{
+  text-align:center;
+}
+#div1{
+  width:100%;
+  border:solid;
+  height:25em;
+}
+#sub1{
+border:solid;
+width:30%;
+}
+#class1{
+  display:inline-block;
+  text-align:left;
+  width:25%;
+}
+#sub2{
+  position:right;
+  width:30%;
+  display:inline-block;
+  float:right;
+  
+}
+.class2{
+  display:inline-block;
+  float:right;
+}
