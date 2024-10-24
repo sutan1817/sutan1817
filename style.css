@@ -10,22 +10,25 @@ h2{
   height:25em;
 }
 #sub1{
-border:solid;
-width:30%;
-}
-#class1{
-  display:inline-block;
-  text-align:left;
-  width:25%;
+  border:solid;
+  float:left;
+  width:30%;
+  height:100%;
 }
 #sub2{
-  position:right;
-  width:30%;
-  display:inline-block;
-  float:right;
+  border:solid;
+  float:left;
+  width:40%;
+  height:100%;
+  border-bottom:;
   
 }
-.class2{
-  display:inline-block;
-  float:right;
+#sub3{
+  border:solid;
+  float:left;
+  height:100%}
+#sub1A{
+  width:30%;
+  height:30%;
+  border:solid;
 }
