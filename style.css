@@ -9,3 +9,25 @@ header nav{
   width:50%;
   float:right;
 }
+.section1{
+  float:left;
+  width:40%;
+  display:wrap;
+  flex-direction:row;
+  border:solid;
+  border-radius:20px;}
+.section2{
+  border:solid;
+  width:50%;
+  float:left;
+  border-radius:20px;
+}
+#section3{
+  border:solid;
+  text-lign:center;
+  width:70%;
+  border-radius:20px;
+  align-itms:center;
+  
+}
+]
