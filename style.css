@@ -20,14 +20,17 @@ header nav{
   border:solid;
   width:50%;
   float:left;
-  border-radius:20px;
+  border-radius:0px;
 }
 #section3{
   border:solid;
-  text-lign:center;
   width:70%;
-  border-radius:20px;
-  align-itms:center;
-  
+  border-radius:0px;
+  display:flex;
+  align-items:center;
+  float:right;
+  position:center;
 }
-]
+#section3 h1{
+  text-align:center;
+}
