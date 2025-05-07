@@ -111,6 +111,21 @@ nav a:hover {
   margin-bottom: 10px;
   color: #5b3a0f;
 }
+.logo {
+  max-width: 200px;
+  height: auto;
+  display: block;
+  margin: 0 auto 10px;
+}
+
+.produk img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto 15px;
+}
 
 footer {
   background-color: #fff6cc;
