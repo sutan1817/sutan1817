@@ -111,7 +111,7 @@ nav a:hover {
   margin-bottom: 10px;
   color: #5b3a0f;
 }
-.logo {
+#logo {
   max-width:200px;
   height: auto;
   display: block;
