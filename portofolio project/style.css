@@ -9,6 +9,7 @@ body{
   justify-content:space-between;
   width:100vw;
   height:1.875rem;
+  border:1px solid #547792;
 }
 #navbutton{
 display:flex;
