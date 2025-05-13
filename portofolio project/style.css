@@ -14,4 +14,5 @@ body{
 display:flex;
 flex:wrap;
 justify-content:space-around;
+width:30vw;
 }
