@@ -6,7 +6,7 @@ body{
 #navsection{
   display:flex;
   flex:wrap;
-  justify-content:space-around;
+  justify-content:space-between;
   width:90vw;
   height:1.875rem;
 }
