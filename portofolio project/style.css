@@ -12,6 +12,8 @@ body{
   border:1px solid #547792;
   border-radius:20px;
   padding:3vh;
+  background:;
+  backdrop-filter:;
 }
 #navbutton{
 display:flex;
