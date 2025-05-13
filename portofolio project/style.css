@@ -12,7 +12,7 @@ body{
   border:1px solid #547792;
   border-radius:20px;
   padding:3vh;
-  background:;
+  background:linear-gradient(to right,#547792,#213448);
   backdrop-filter:;
 }
 #navbutton{
