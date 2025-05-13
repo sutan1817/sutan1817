@@ -3,11 +3,11 @@ body{
   font-family:"oswald";
   color:#ECEFCA;
 }
-#navbutton{
+#navsection{
   display:flex;
   flex:wrap;
   justify-content:space-between;
 }
-#navbutton div{
+#navbutton{
 justify-items:space-between;
 }
