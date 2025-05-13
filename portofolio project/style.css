@@ -11,5 +11,7 @@ body{
   height:1.875rem;
 }
 #navbutton{
-justify-items:space-between;
+display:flex;
+flex:wrap;
+justify-content:space-around;
 }
