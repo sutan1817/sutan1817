@@ -1,8 +1,10 @@
 body{
   background-color:#213448;
+  font-family:"oswald";
+  color:#ECEFCA;
 }
 #navbutton{
   display:flex;
   flex:wrap;
-  
+  justify-content:space-between;
 }
