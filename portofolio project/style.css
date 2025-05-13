@@ -8,3 +8,6 @@ body{
   flex:wrap;
   justify-content:space-between;
 }
+#navbutton div{
+justify-items:space-between;
+}
