@@ -10,6 +10,7 @@ body{
   width:100vw;
   height:1.875rem;
   border:1px solid #547792;
+  border-radius:20px;
 }
 #navbutton{
 display:flex;
