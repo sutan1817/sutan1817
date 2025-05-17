@@ -1,3 +1,4 @@
+
 body{
   background-color:#213448;
   font-family:"oswald";
@@ -25,4 +26,9 @@ width:30vw;
 #home{
   display:flex;
   justify-content:space-between;
+  img{
+    width:500px;
+    height:500px;
+    border-radius:15px;
+  }
 }
