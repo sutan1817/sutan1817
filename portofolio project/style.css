@@ -27,8 +27,9 @@ width:30vw;
   display:flex;
   justify-content:space-between;
   justify-self:center;
-  align-content:strech;
+  align-content:center;
   width:80vw;
+  margin:100px;
   img{
     width:31.25rem;
     height:31.25rem;
