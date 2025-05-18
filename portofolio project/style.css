@@ -29,6 +29,10 @@ width:30vw;
   align-content:center;
   width:80vw;
   margin:100px;
+  border:3px solid white;
+  border-radius:1rem;
+  padding:3rem;
+  background:;
   img{
     width:31.25rem;
     height:31.25rem;
