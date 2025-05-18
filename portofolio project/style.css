@@ -42,7 +42,9 @@ width:30vw;
   #div1{   height:31.25rem;
       align-content:center;
   }
-  span1{
-    color:linear-gradient(to-right,#547792,#213448);
+  #span1{background:linear-gradient(to right,#547792,white,#547792);
+  color:transparent;
+  background-clip:text;
   }
 }
+
