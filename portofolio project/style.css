@@ -26,7 +26,6 @@ width:30vw;
 #home{
   display:flex;
   justify-content:space-between;
-  justify-self:center;
   align-content:center;
   width:80vw;
   margin:100px;
@@ -35,13 +34,15 @@ width:30vw;
     height:31.25rem;
     border-radius:15px;}
   h1{
-    font-size:48px;
-  p1{
-    font-size:48px;
-  }
-  }
+    font-size:4em;
 }
-#div1{
-  height:31.25rem;
-  align-content:center;
+  p1{font-size:2em;
+    
+  }
+  #div1{   height:31.25rem;
+      align-content:center;
+  }
+  span1{
+    color:linear-gradient(to-right,#547792,#213448);
+  }
 }
