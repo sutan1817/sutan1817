@@ -61,13 +61,16 @@ width:30vw;
   border-radius:1rem;
     
   }
-  .img{align-self:center;
+  #work1{width:80vw;}
+  #img1{align-content:center;
     justify-self:center;
+    height:37.5rem;
   }
   img{
     width:75vw;
     height:31.25rem;
     border-radius:1rem;
   }
+  
 }
 
