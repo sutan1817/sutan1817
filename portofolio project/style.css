@@ -32,6 +32,7 @@ width:30vw;
   border-radius:1rem;
   padding:3rem;
   background:linear-gradient(to right,#547792,#213448);
+  justify-self:center;
   h2{font-size:4em;}
   img{
     width:31.25rem;
@@ -54,5 +55,10 @@ width:30vw;
   width:80vw;
   margin:100px;
   h1{font-size:3em;}
+  img{
+    width:75vw;
+    height:31.25rem;
+    border-radius:1rem;
+  }
 }
 
