@@ -54,14 +54,15 @@ width:30vw;
 #work{
   width:80vw;
   margin:100px;
+  p1{font-size:3em;}
   h1{font-size:3em;}
   .projects{background:linear-gradient(to right,#547792,#213448);
   border:3px inset white;
   border-radius:1rem;
     
   }
-  .img{align-content:center;
-    justify-content:center;
+  .img{align-self:center;
+    justify-self:center;
   }
   img{
     width:75vw;
