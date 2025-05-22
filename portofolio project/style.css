@@ -55,7 +55,14 @@ width:30vw;
   width:80vw;
   margin:100px;
   h1{font-size:3em;}
-  .img{align-content:center;}
+  .projects{background:linear-gradient(to right,#547792,#213448);
+  border:3px inset white;
+  border-radius:1rem;
+    
+  }
+  .img{align-content:center;
+    justify-content:center;
+  }
   img{
     width:75vw;
     height:31.25rem;
