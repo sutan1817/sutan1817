@@ -59,6 +59,16 @@ width:30vw;
   h2{font-size:3em;
     font-style:bold;
   }
+  .techstack{
+   display:flex;
+   width:10vw;
+   gap:2rem;
+   justify-content:space-between;
+   p1{background:grey;
+      border-radius:0.5rem;
+      backdrop-filter:blur(10px);
+    }
+  }
   .projects{background:linear-gradient(to right,#547792,#213448);
   border:3px inset white;
   border-radius:1rem;
