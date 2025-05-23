@@ -65,6 +65,8 @@ width:30vw;
    gap:1.5rem;
    justify-content:space-between;
    p1{backdrop-filter:blur(10px);
+  background:grey;
+  border-radius:1rem;
     }
   }
   .projects{background:linear-gradient(to right,#547792,#213448);
