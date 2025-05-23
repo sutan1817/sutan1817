@@ -65,10 +65,9 @@ width:30vw;
     
   }
   #work1{width:80vw;}
-  #img1{align-content:center;
+  .img{align-content:center;
     justify-self:center;
-    height:37.5rem;
-  }
+    height:37.5rem;}
   img{
     width:75vw;
     height:31.25rem;
@@ -76,4 +75,5 @@ width:30vw;
   }
   
 }
+
 
