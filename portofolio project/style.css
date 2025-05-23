@@ -64,8 +64,8 @@ width:30vw;
    width:10vw;
    gap:1.5rem;
    justify-content:space-between;
-   p1{backdrop-filter:blur(10px);
-  background:grey;
+   backdrop-filter:blur(10px);
+   p1{ background:grey;
   border-radius:1rem;
     }
   }
