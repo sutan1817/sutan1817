@@ -62,10 +62,9 @@ width:30vw;
   .techstack{
    display:flex;
    width:10vw;
-   gap:2rem;
+   gap:1.5rem;
    justify-content:space-between;
-   p1{background:grey;
-      border-radius:0.5rem;
+   p1{backdrop-filter:blur(10px);
     }
   }
   .projects{background:linear-gradient(to right,#547792,#213448);
