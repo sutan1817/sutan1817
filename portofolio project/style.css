@@ -72,9 +72,9 @@ width:30vw;
   .projects{background:linear-gradient(to right,#547792,#213448);
   border:3px inset white;
   border-radius:1rem;
+  width:80vw;
     
   }
-  #work1{width:80vw;}
   .img{align-content:center;
     justify-self:center;
     height:37.5rem;}
