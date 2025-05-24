@@ -111,6 +111,9 @@ width:30vw;
   .work{width:80vw;
     background:linear-gradient(to right,#547792,#94B4C1);
   }
+  .dd1{width:75vw;
+    justify-self:center;
+  }
 }
 
 
