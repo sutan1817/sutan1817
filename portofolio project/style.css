@@ -54,6 +54,7 @@ width:30vw;
 #work{
   width:80vw;
   margin:100px;
+  justify-self:center;
   p1{font-size:3em;}
   h1{font-size:3em;}
   h2{font-size:3em;
