@@ -13,7 +13,7 @@ body{
   height:0.3333rem;
   border:1px solid #547792;
   border-radius:20px;
-  padding:3vh;
+  padding:5vw;
   background:linear-gradient(to right,#547792,#94B4C1);
   backdrop-filter:blur(10px);
 }
