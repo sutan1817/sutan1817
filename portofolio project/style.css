@@ -84,10 +84,14 @@ width:30vw;
     height:31.25rem;
     border-radius:1rem;
   }
-  
+  .text{width:75vw;
+    justify-self:center;
+    padding-bottom:20px;
+  }
 }
 #About{width:80vw;
   justify-self:center;
+  h1{font-size:3em;}
 }
 
 
