@@ -18,7 +18,7 @@ body{
   backdrop-filter:blur(10px);
 }
 #navbutton{
-a{font-size:1.5em;
+a{font-size:1.75em;
   text-decoration:none;
   color:#ECEFCA;
 }
