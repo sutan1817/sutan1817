@@ -30,12 +30,13 @@ justify-content:space-around;
 width:30vw;
 }
 #navicon{
-  justify-content:scape-between;
+  display:flex;
+  gap:1rem;
   align-content:center;
   height:0.3333rem;
-  width:20vw;
+  width:10vw;
   img{width:40px;
-  height:50px;
+  height:40px;
 }}
 #home{
   display:flex;
