@@ -18,7 +18,10 @@ body{
   backdrop-filter:blur(10px);
 }
 #navbutton{
-p1{font-size:1.5em;}
+a{font-size:1.5em;
+  text-decoration:none;
+  color:#ECEFCA;
+}
 display:flex;
 align-content:center;
 height:0.3333rem;
