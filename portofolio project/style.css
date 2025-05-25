@@ -115,7 +115,9 @@ width:30vw;
   .diddy{width:75vw;
     justify-self:center;
   }
-  .companylogo{img{width:3vw;
+  .companylogo{
+    display:flex;
+    img{width:3vw;
     height:3vw;
   }}
 }
