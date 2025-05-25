@@ -130,6 +130,9 @@ width:30vw;
 @media(max-width:1280px){
   #home{display:flex
     flex-direction:column;
+    img{width:400px;
+      height:400px;
+    }
   }
 }
 
