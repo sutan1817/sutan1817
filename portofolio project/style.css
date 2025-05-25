@@ -111,11 +111,13 @@ width:30vw;
     border-radius:1rem;
     border:3px inset white;
     background:linear-gradient(to right,#547792,#213448);
-    
   }
   .diddy{width:75vw;
     justify-self:center;
   }
+  .companylogo{img{width:3vw;
+    height:3vw;
+  }}
 }
 
 
