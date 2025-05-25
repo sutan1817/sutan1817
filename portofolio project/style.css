@@ -128,7 +128,7 @@ width:30vw;
   .companyinfo{font-size:3em;}
 }
 @media(max-width:800px){
-  #div1{padding-bottom:5rem;}
+  #home{height:10vw}
   
 }
 
