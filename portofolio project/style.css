@@ -131,8 +131,10 @@ width:30vw;
   #home{
     display:flex;
     flex-direction:column;
-    justify-self:center;
   }
+ #div1{}
+ #div2{}
+  
 }
 
 
