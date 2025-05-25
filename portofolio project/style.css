@@ -133,7 +133,7 @@ width:30vw;
     flex-direction:column;
   }
   #div1{
-    display:flex;
+    text-align:center;
     width:80vw;
     justify-content:center;}
   #div2{
