@@ -128,11 +128,9 @@ width:30vw;
   .companyinfo{font-size:3em;}
 }
 @media(max-width:1280px){
-  #home{display:flex
+  #home{display:flex;
     flex-direction:column;
-    img{width:400px;
-      height:400px;
-    }
+    justify-content:center;
   }
 }
 
