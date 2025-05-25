@@ -114,7 +114,7 @@ width:30vw;
   }
   .diddy{width:75vw;
     justify-self:center;
-   align-content:center;
+   margin-top:2rem;
   }
   .companylogo{
     display:flex;
