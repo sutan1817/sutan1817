@@ -128,8 +128,8 @@ width:30vw;
   .companyinfo{font-size:3em;}
 }
 @media(max-width:800px){
-  #navsection{}
-  #home{}
+  #div1{padding-bottom:5rem;}
+  
 }
 
 
