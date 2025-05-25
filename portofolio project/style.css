@@ -132,6 +132,14 @@ width:30vw;
     display:flex;
     flex-direction:column;
   }
+  #div1{
+    display:flex;
+    width:80vw;
+    justify-content:center;}
+  #div2{
+    display:flex;
+    width:80vw;
+    justify-content:center;}
   
 }
 
