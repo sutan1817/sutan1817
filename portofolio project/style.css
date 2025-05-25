@@ -117,9 +117,11 @@ width:30vw;
   }
   .companylogo{
     display:flex;
-    img{width:3vw;
-    height:3vw;
-  }}
+    img{width:25px;
+    height:25px;
+  }
+    
+  }
 }
 
 
