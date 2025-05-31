@@ -144,10 +144,14 @@ width:30vw;
 #contact{width:80vw;
 justify-self:center;
 border:3px inset white;
+margin:100px;
 border-radius:1rem;
 background:linear-gradient(to right,#547792,#213448); ;
 img{width:5vw;
   height:5vw;
+}
+#rogue1{display:flex;
+  justify-content:center;
 }
   
 }
