@@ -150,7 +150,9 @@ background:linear-gradient(to right,#547792,#213448); ;
 img{width:5vw;
   height:5vw;
 }
-#subcontact{}
+#subcontact{width:70vw;
+  
+}
 #rogue1{display:flex;
   justify-content:space-between;
 }
