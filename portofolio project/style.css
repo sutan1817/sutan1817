@@ -142,8 +142,9 @@ width:30vw;
     justify-content:center;}
 }
 #contact{width:80vw;
-align-self:center;
+justify-self:center;
 border:3px inset white;
+border-radius:1rem;
 background:linear-gradient(to right,#547792,#213448); ;
 img{width:5vw;
   height:5vw;
