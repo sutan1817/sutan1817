@@ -144,6 +144,10 @@ width:30vw;
 #contact{width:80vw;
 align-self:center;
 border:3px inset white;
+background:linear-gradient(to right,#547792,#213448); ;
+img{width:5vw;
+  height:5vw;
+}
   
 }
 
