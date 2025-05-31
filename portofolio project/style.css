@@ -141,7 +141,8 @@ width:30vw;
     width:80vw;
     justify-content:center;}
 }
-#contact{
+#contact{width:80vw;
+align-self:center;
   
 }
 
