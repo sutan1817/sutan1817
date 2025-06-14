@@ -146,10 +146,7 @@ width:30vw;
     #navicon{display:none;}
     #navsection{display:none;}
   }
-  #qqa{
-    p1{font-size:8px;}
-    }
-  }
+  #qqa{p1{display:none;}}
 }
 #contact{width:80vw;
 justify-self:center;
