@@ -143,6 +143,7 @@ width:30vw;
     justify-content:center;}
   #navsection{height:2rem;
     #navbutton{display:none;}
+    #navicon{display:none;}
     #navsection{display:none;}
   }
 }
