@@ -128,7 +128,7 @@ width:30vw;
   .dikto{font-size:3em;}
   .companyinfo{font-size:3em;}
 }
-@media(max-width:1280px){
+  @media(max-width:1280px){
   #home{
     display:flex;
     flex-direction:column;
