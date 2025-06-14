@@ -141,6 +141,7 @@ width:30vw;
     display:flex;
     width:80vw;
     justify-content:center;}
+  #navsection{height:2rem;}
 }
 #contact{width:80vw;
 justify-self:center;
