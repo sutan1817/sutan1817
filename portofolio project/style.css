@@ -82,7 +82,7 @@ width:30vw;
    justify-content:space-between;
    backdrop-filter:blur(10px);
    p1{ background:grey;
-  border-radius:1rem;
+  border-radius:0.8rem;
   backdrop-filter:blur(10px);
     }
   }
