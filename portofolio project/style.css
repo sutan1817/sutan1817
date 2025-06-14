@@ -83,6 +83,7 @@ width:30vw;
    backdrop-filter:blur(10px);
    p1{ background:grey;
   border-radius:1rem;
+  backdrop-filter:blur(10px);
     }
   }
   .projects{background:linear-gradient(to right,#547792,#213448);
