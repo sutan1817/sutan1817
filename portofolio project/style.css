@@ -146,7 +146,10 @@ width:30vw;
     #navicon{display:none;}
     #navsection{display:none;}
   }
-  #qqa{p1{display:;}}
+  #qqa{
+   width:20vw;
+   justify-content:center;
+   p1{font-size:1rem;}}
   #rogue1{flex-direction:column;
   justify-content:center;
   width:80vw;
