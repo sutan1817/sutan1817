@@ -148,6 +148,7 @@ width:30vw;
   }
   #qqa{
    width:20vw;
+   flex-direction:column;
    justify-content:center;
    p1{font-size:1rem;}}
   #rogue1{flex-direction:column;
