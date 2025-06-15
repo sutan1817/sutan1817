@@ -150,8 +150,7 @@ width:30vw;
   #rogue1{flex-direction:column;
   justify-content:center;
   img{width:50px;
-    height:50rem;}
-  }
+height:50px;  }
   }
 }
 #contact{width:80vw;
