@@ -161,7 +161,7 @@ width:30vw;
       width:80vw;
       background-color:linear-gradient(to right,#547792,#213448);
       border:3px inset white;
-      b
+      border-radius:1rem;
     }
   }
   }
