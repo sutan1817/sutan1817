@@ -147,7 +147,6 @@ width:30vw;
     #navsection{display:none;}
   }
   #qqa{
-   width:20vw;
    flex-direction:column;
    justify-content:center;
    p1{font-size:1rem;}}
@@ -156,6 +155,9 @@ width:30vw;
   width:80vw;
   }
   #contact{
+    justify-content:center;
+  }
+  #subsub{
     justify-content:center;
   }
 }
