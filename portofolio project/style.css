@@ -128,7 +128,7 @@ width:30vw;
   .dikto{font-size:3em;}
   .companyinfo{font-size:3em;}
 }
-@media(max-width:1280px){
+@mdia(max-width:1280px){
   #home{
     display:flex;
     flex-direction:column;
@@ -154,7 +154,6 @@ width:30vw;
   justify-self:center;
   width:10vw;
   }
-  }
   #contact{
     justify-content:center;
   }
@@ -162,7 +161,7 @@ width:30vw;
     width:75vw;
     justify-content:center;
   }
-}
+  }
 #contact{width:80vw;
 justify-self:center;
 img{width:5vw;
