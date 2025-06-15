@@ -189,6 +189,9 @@ h1{font-size:3em;}
 p1{font-size:4em;}
 }
 }
-#alternative-contact{visibi
-lity:hidden;}
+@media(min-width:1280px){
+  #alternative-contact{
+    display:none;
+  }
+}
 
