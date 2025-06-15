@@ -154,6 +154,8 @@ width:30vw;
   }
   #alternative-contact{
     visibility:block;
+    width:80vw;
+    #subA1{width:80vw;}
   }
   }
 #contact{width:80vw;
