@@ -155,6 +155,7 @@ width:30vw;
   #contact{display:none;}
   #alternative-contact{
     width:80vw;
+    justify-self:center;
     #subA1{
       h2{font-size:5rem;}
       width:80vw;
