@@ -146,24 +146,6 @@ width:30vw;
     #navicon{display:none;}
     #navsection{display:none;}
   }
-  #qqa{
-   flex-direction:column;
-   justify-content:center;
-   p1{font-size:1rem;}}
-  #rogue1{flex-direction:column;
-  justify-self:center;
-  width:10vw;
-  img{weight:5vw;
-    height:5vw;
-  }
-  }
-  #contact{
-    justify-content:center;
-  }
-  #subsub{
-    width:75vw;
-    justify-content:center;
-  }
   }
 #contact{width:80vw;
 justify-self:center;
