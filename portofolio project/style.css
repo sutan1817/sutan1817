@@ -148,7 +148,9 @@ width:30vw;
   }
   #qqa{p1{display:;}}
   #rogue1{flex-direction:column;
-    justify-self:center;
+  img{width:50px;
+    height:50px;
+  }
   }
 }
 #contact{width:80vw;
