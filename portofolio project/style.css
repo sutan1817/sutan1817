@@ -146,6 +146,9 @@ width:30vw;
     #navicon{display:none;}
     #navsection{display:none;}
   }
+  #contact{img{width:5vw;
+    height:5vw;
+  }}
   }
 #contact{width:80vw;
 justify-self:center;
