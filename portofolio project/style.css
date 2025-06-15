@@ -147,7 +147,7 @@ width:30vw;
     #navsection{display:none;}
   }
   #qqa{p1{display:;}}
-  #rogue
+  #rogue{flex-direction:column;}
 }
 #contact{width:80vw;
 justify-self:center;
