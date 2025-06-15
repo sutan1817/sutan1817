@@ -152,6 +152,9 @@ width:30vw;
     }
   #contact{display:none;}
   }
+  #alternative-contact{
+    display:visible;
+  }
   }
 #contact{width:80vw;
 justify-self:center;
@@ -177,5 +180,5 @@ h1{font-size:3em;}
 p1{font-size:4em;}
 }
 }
-
+#alternative-contact{visibility:hidden;}
 
