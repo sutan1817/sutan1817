@@ -153,6 +153,9 @@ width:30vw;
   #rogue1{flex-direction:column;
   justify-self:center;
   width:10vw;
+  img{weight:5vw;
+    height:5vw;
+  }
   }
   #contact{
     justify-content:center;
