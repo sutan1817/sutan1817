@@ -159,7 +159,7 @@ width:30vw;
     text-align:center;
     #subA2{
       width:80vw;
-      background-color:linear-gradient(to right,#547792,#213448);
+      background:linear-gradient(to right,#547792,#213448);
       border:3px inset white;
       border-radius:1rem;
     }
