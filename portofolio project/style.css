@@ -154,7 +154,6 @@ width:30vw;
   }
   #contact{display:none;}
   #alternative-contact{
-    visibility:block;
     width:80vw;
     #subA1{
       h2{font-size:5rem;}
