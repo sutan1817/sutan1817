@@ -128,7 +128,7 @@ width:30vw;
   .dikto{font-size:3em;}
   .companyinfo{font-size:3em;}
 }
-  @media(max-width:1280px){
+@media(max-width:1280px){
   #home{
     display:flex;
     flex-direction:column;
@@ -148,6 +148,11 @@ width:30vw;
   }
   #qqa{p1{display:;}}
   #rogue1{flex-direction:column;
+  justify-content:center;
+  width:80vw;
+  }
+  #contact{
+    justify-content:center;
   }
 }
 #contact{width:80vw;
