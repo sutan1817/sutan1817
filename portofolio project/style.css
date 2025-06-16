@@ -207,7 +207,7 @@ p1{font-size:4em;}
 }
 @keyframes profile{
   100%{
-    img{rotate:30deg;}}
+    rotate:30deg;}
   
 }
 
