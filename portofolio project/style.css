@@ -48,9 +48,6 @@ width:30vw;
   padding:3rem;
   background:linear-gradient(to right,#547792,#213448);
   justify-self:center;
-  animation-name:profile;
-  animation-duration:3s;
-  animation-fill-mode:forward;
   h2{font-size:4em;}
   img{
     width:31.25rem;
@@ -64,6 +61,11 @@ width:30vw;
   #div1{   height:31.25rem;
       align-content:center;
       
+  }
+  #div2{
+    animation:profile;
+    animation-duration:3s;
+    animation-fill-mode:forward;
   }
   #span1{background:linear-gradient(to   right,#547792,white,#547792);
      color:transparent;
@@ -204,7 +206,8 @@ p1{font-size:4em;}
   }
 }
 @keyframes profile{
-  100{transform:30deg;}
+  100%{
+    img{rotate:30deg;}}
   
 }
 
