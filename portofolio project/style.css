@@ -65,7 +65,7 @@ width:30vw;
   #div2{
     animation:profile;
     animation-duration:3s;
-    animation-fill-mode:forward;
+    animation-fill-mode:forwards;
   }
   #span1{background:linear-gradient(to   right,#547792,white,#547792);
      color:transparent;
@@ -207,7 +207,7 @@ p1{font-size:4em;}
 }
 @keyframes profile{
   100%{
-    rotate:20deg;}
+    rotate:5deg;}
   
 }
 
