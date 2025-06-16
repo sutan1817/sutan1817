@@ -49,6 +49,7 @@ width:30vw;
   background:linear-gradient(to right,#547792,#213448);
   justify-self:center;
   animation-name:profile;
+  animation-duration:3s;
   h2{font-size:4em;}
   img{
     width:31.25rem;
@@ -202,6 +203,7 @@ p1{font-size:4em;}
   }
 }
 @keyframes profile{
+  100{transform:30deg;}
   
 }
 
