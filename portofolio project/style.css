@@ -48,6 +48,7 @@ width:30vw;
   padding:3rem;
   background:linear-gradient(to right,#547792,#213448);
   justify-self:center;
+  animation-name:profile;
   h2{font-size:4em;}
   img{
     width:31.25rem;
