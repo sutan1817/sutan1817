@@ -50,6 +50,7 @@ width:30vw;
   justify-self:center;
   animation-name:profile;
   animation-duration:3s;
+  animation-fill-mode:forward;
   h2{font-size:4em;}
   img{
     width:31.25rem;
