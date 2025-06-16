@@ -119,8 +119,11 @@ width:30vw;
     background:linear-gradient(to right,#547792,#213448);
   }
   .diddy{width:75vw;
-    justify-self:center;
+   justify-self:center;
    margin-top:2rem;
+  }
+  .diddy2{
+    margin:8px;
   }
   .companylogo{
     display:flex;
