@@ -179,7 +179,8 @@ img{width:5vw;
  justify-self:center;
  border:3px inset white;
 border-radius:1rem;
-background:linear-gradient(to right,#547792,#213448); ;
+background:linear-gradient(to right,#547792,#213448); 
+padding-bottom:1.5rem;
 }
 #rogue1{display:flex;
   justify-content:space-between;
