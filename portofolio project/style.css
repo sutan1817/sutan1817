@@ -6,8 +6,9 @@ body{
   p1{
     font-weight:bold;
   }
+ br{color:white;}
 }
-#dropdownmenu{display:none;}
+#dropdownmenu{display:;}
 #navsection{
   display:flex;
   flex:wrap;
