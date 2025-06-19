@@ -6,7 +6,10 @@ body{
   p1{
     font-weight:bold;
   }
- br{color:white;}
+ br{color:white;
+   width:20px;
+   height:20px;
+ }
 }
 #dropdownmenu{display:;}
 #navsection{
