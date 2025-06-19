@@ -11,7 +11,12 @@ body{
    height:20px;
  }
 }
-#dropdownmenu{display:;}
+#dropdownmenu{display:;
+  width:60vw;
+  height:100vw;
+  background-color:#213448;
+  z-index:2;
+}
 #navsection{
   display:flex;
   flex:wrap;
