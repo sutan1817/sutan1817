@@ -10,15 +10,18 @@ body{
    width:20px;
    height:20px;
  }
- a{text-decoration:none;}
+ a{text-decoration:none;
+   color:white;
+ }
 }
 #dropdownmenu{display:;
   width:60vw;
   height:100vw;
   background-color:#213448;
-  z-index:100;
+  z-index:2;
 }
 #navsection{
+  z-index:1;
   display:flex;
   flex:wrap;
   justify-content:space-between;
@@ -53,6 +56,7 @@ width:30vw;
   height:40px;
 }}
 #home{
+  z-index:1;
   display:flex;
   justify-content:space-between;
   width:80vw;
@@ -86,6 +90,7 @@ width:30vw;
      background-clip:text;}
 }
 #work{
+  z-index:1;
   width:80vw;
   margin:100px;
   justify-self:center;
@@ -124,7 +129,9 @@ width:30vw;
     padding-bottom:1.25rem;
   }
 }
-#About{width:80vw;
+#About{
+  z-index:1;
+  width:80vw;
   justify-self:center;
   h1{font-size:3em;}
   .work{width:80vw;
