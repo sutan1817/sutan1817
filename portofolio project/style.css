@@ -140,6 +140,13 @@ width:30vw;
   .companyinfo{font-size:3em;}
 }
 @media(max-width:1280px){
+  #dropbutton{
+    
+  }
+  .line{width:4px;
+    height:8px;
+    background-color:white;
+  }
   #home{
     display:flex;
     flex-direction:column;
