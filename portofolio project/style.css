@@ -7,6 +7,7 @@ body{
     font-weight:bold;
   }
 }
+#dropdownmenu{display:none;}
 #navsection{
   display:flex;
   flex:wrap;
