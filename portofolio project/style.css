@@ -144,11 +144,11 @@ width:30vw;
     display:flex;
     gap:0.5rem;
     height:5vw;
-    width:5vw;
+    width:10vw;
     
   }
   .line{width:4px;
-    height:8px;
+    height:32px;
     background-color:white;
   }
   #home{
