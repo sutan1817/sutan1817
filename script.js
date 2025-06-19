@@ -1,4 +1,4 @@
 
 Function kerjakan(){
-document.getelementById("p1").InnerHTML="kontol";
+document.getelementById("p1").InnerHTML="";
 }
