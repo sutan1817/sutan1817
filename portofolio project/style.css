@@ -48,13 +48,14 @@ justify-content:space-around;
 width:30vw;
 }
 #dropdownmenu{
+  display:none;
   position:absolute;
   width:60vw;
   height:100vw;
-  bottom:-px;
+  bottom:;
   top:;
   z-index:2;
-  margin:50px;
+  margin:;
   background-color:red;
 }
 #navicon{
@@ -125,6 +126,7 @@ width:30vw;
   border:3px inset white;
   border-radius:1rem;
   width:80vw;
+  z-index:1;
     
   }
   .img{align-content:center;
