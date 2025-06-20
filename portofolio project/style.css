@@ -105,7 +105,7 @@ width:30vw;
    gap:1.5rem;
    justify-content:space-between;
    backdrop-filter:blur(10px);
-   p1{ background:grey;
+   p1{ background:linear-gradient(to   right,#547792,white,#547792);
   border-radius:0.8rem;
   backdrop-filter:blur(10px);
     }
