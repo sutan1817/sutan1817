@@ -19,7 +19,7 @@ body{
   height:100vw;
   background-color:red;
   z-index:2;
-  position:absolute;
+  posiion:absolute;
   
 }
 #navsection{
@@ -50,15 +50,20 @@ justify-content:space-around;
 width:30vw;
 }
 #dropdownmenu{
-  display:none;
+  margin:20px;
+  display:flex;
+  text-align:center;
+  flex-direction:column;
+  gap:20px;
   position:absolute;
   width:60vw;
-  height:100vw;
+  height:80vw;
   bottom:;
   top:;
   z-index:2;
   margin:;
   background-color:red;
+  border-radius:1rem;
 }
 #navicon{
   display:flex;
