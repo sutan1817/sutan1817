@@ -58,12 +58,13 @@ width:30vw;
   position:absolute;
   width:60vw;
   height:80vw;
-  bottom:;
-  top:;
   z-index:2;
-  margin:;
   background-color:red;
   border-radius:1rem;
+  hr{width:10px;
+    height:10px;
+    background-color:white;
+  }
 }
 #navicon{
   display:flex;
