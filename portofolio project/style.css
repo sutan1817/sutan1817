@@ -178,6 +178,7 @@ width:30vw;
   .companyinfo{font-size:3em;}
 }
 @media(max-width:1280px){
+  #dropdownmenu{display:none;}
   #dropbutton{
     display:flex;
     gap:0.5rem;
