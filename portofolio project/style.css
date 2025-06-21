@@ -17,8 +17,10 @@ body{
 #dropdownmenu{display:;
   width:60vw;
   height:100vw;
-  background-color:#213448;
+  background-color:red;
   z-index:2;
+  position:absolute;
+  
 }
 #navsection{
   
