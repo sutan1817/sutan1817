@@ -10,7 +10,7 @@ body{
    background-color:white;
    width:120px;
    height:5px;
-   transform:scalex(0);
+   transform:scaleX(0);
  }
  hr :hover{
    transform:scaleX(0.5);
