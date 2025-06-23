@@ -14,6 +14,13 @@ body{
    color:white;
  }
 }
+#dropdownmenu{display:;
+  width:60vw;
+  height:100vw;
+  background-color:red;
+  z-index:2;
+  posiion:absolute;
+  
 }
 #navsection{
   
@@ -44,20 +51,19 @@ width:30vw;
 }
 #dropdownmenu{
   margin:20px;
-  display:none;
+  display:flex;
   text-align:center;
   flex-direction:column;
   gap:20px;
   position:absolute;
   width:60vw;
   height:80vw;
+  bottom:;
+  top:;
   z-index:2;
+  margin:;
   background-color:red;
   border-radius:1rem;
-  hr{width:100px;
-    height:5px;
-    background-color:white;
-  }
 }
 #navicon{
   display:flex;
