@@ -55,8 +55,10 @@ width:30vw;
   top:;
   z-index:2;
   margin:;
-  background-color:#213448;
+  background-color:#94B4C1;
   border-radius:1rem;
+  backdrop-filter:blur(20px);
+  
 }
 #navicon{
   display:flex;
