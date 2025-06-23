@@ -1,3 +1,6 @@
-const dropbutton = document.querySelector('#dropbutton');
-const dropbutton = document.querySelector
-("#dropdownmenu");
+const dropdownmenu = document.querySelector('#dropdownmenu');
+document.querySelector("#dropbutton").
+onclick =() =>{
+  dropbutton.idlist.toggle('dropdownmenu');
+  
+}
