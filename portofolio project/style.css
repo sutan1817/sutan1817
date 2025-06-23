@@ -47,8 +47,9 @@ justify-content:space-around;
 width:30vw;
 }
 #dropdownmenu{
+  border:3px inset white;
   margin:20px;
-  display:flex;
+  display:none;
   text-align:center;
   flex-direction:column;
   gap:20px;
