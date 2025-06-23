@@ -50,6 +50,7 @@ justify-content:space-around;
 width:30vw;
 }
 #dropdownmenu{
+  border-bottom:white;
   margin:20px;
   display:flex;
   text-align:center;
