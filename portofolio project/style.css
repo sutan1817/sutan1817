@@ -7,23 +7,15 @@ body{
     font-weight:400;
   }
  br{color:white;
-   width:20px;
+   width:10px;
    height:20px;
  }
  a{text-decoration:none;
    color:white;
  }
 }
-#dropdownmenu{display:;
-  width:60vw;
-  height:100vw;
-  background-color:red;
-  z-index:2;
-  posiion:absolute;
-  
-}
+
 #navsection{
-  
   z-index:-1;
   display:flex;
   flex:wrap;
@@ -50,7 +42,6 @@ justify-content:space-around;
 width:30vw;
 }
 #dropdownmenu{
-  border-bottom:white;
   margin:20px;
   display:flex;
   text-align:center;
