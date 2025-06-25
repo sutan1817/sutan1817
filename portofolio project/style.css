@@ -186,6 +186,7 @@ rem;
     gap:0.5rem;
     height:5vw;
     width:10vw;
+    transform:rotate(90deg);
     
   }
   .line{width:4px;
