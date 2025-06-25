@@ -264,10 +264,12 @@ h1{font-size:3em;}
 p1{font-size:4em;}
 }
 }
-@media(min-width:1280px){               .dropdownmenu{display:none;}
+@media(min-width:1280px){
+   .dropdownmenuA{display:none;}
    .dropbutton{
     display:none;
-  }
+   }
+   #alternative-contact{display:none;}
 }
 @keyframes profile{
   100%{
