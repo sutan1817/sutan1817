@@ -264,8 +264,8 @@ h1{font-size:3em;}
 p1{font-size:4em;}
 }
 }
-@media(min-width:1280px){    .dropdownmenu{display:none;}
-  .dropbutton{
+@media(min-width:1280px){               .dropdownmenu{display:none;}
+   .dropbutton{
     display:none;
   }
 }
