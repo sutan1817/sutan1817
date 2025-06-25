@@ -184,7 +184,7 @@ rem;
   #dropbutton{
     display:flex;
     gap:0.5rem;
-    height:5vw;
+    height:2.5vw;
     width:10vw;
     transform:rotate(90deg);
     
