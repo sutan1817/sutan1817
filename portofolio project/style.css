@@ -51,6 +51,7 @@ width:30vw;
   margin:20px;
   display:none;
   text-align:center;
+  align-self:center;
   flex-direction:column;
   gap:20px;
   position:absolute;
