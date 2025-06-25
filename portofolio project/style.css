@@ -189,7 +189,7 @@ rem;
     width:10vw;
     transform:rotate(90deg);
     align-self:center;
-    #active{
+    .active{
       transform:rotate(180deg);
     }
   }
