@@ -63,8 +63,7 @@ width:30vw;
   background-color:#94B4C1;
   border-radius:1rem;
   backdrop-filter:blur(20px);
-  #dropdownmenuB{
-    display:none;}
+  .active{}
 }
 
 }
