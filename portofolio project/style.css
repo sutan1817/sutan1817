@@ -261,7 +261,9 @@ p1{font-size:4em;}
   #alternative-contact{
     display:none;
   }
-  #dropbutton{display:none;}
+  #dropbutton{
+    display:none;
+  }
 }
 @keyframes profile{
   100%{
