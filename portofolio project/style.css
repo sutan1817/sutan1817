@@ -63,9 +63,11 @@ width:30vw;
   background-color:#94B4C1;
   border-radius:1rem;
   backdrop-filter:blur(20px);
+  #dropdownmenuB{
+    
+    display:none;}
 }
-#dropdownmenuB{
-  display:none;
+
 }
 #navicon{
   display:flex;
@@ -188,7 +190,9 @@ rem;
     width:10vw;
     transform:rotate(90deg);
     align-self:center;
-    
+    #active{
+      transform:rotate(180deg);
+    }
   }
   .line{width:4px;
     height:32px;
