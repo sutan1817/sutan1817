@@ -265,9 +265,6 @@ p1{font-size:4em;}
 }
 }
 @media(min-width:1280px){    .dropdownmenu{display:none;}
-  #alternative-contact{
-    display:none;
-  }
   .dropbutton{
     display:none;
   }
