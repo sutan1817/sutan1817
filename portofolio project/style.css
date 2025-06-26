@@ -186,7 +186,6 @@ width:30vw;
   .dropbutton{
     justify-content:center;
     align-content:center;
-    background-color:red;
     display:flex;
     gap:0.5rem;
     height:20vw;
