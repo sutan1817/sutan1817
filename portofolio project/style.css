@@ -184,6 +184,8 @@ width:30vw;
 }
 @media(max-width:1280px){
   .dropbutton{
+    justify-content:center;
+    align-content:center;
     background-color:red;
     display:flex;
     gap:0.5rem;
