@@ -74,8 +74,8 @@ width:30vw;
   align-content:center;
   height:0.3rem;
   width:20vw;
-  img{width:2rem;
-    height:2rem;
+  img{width:0rem;
+    height:0rem;
   }
 }
 
