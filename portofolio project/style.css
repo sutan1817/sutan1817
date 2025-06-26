@@ -190,7 +190,7 @@ width:30vw;
     display:flex;
     gap:0.5rem;
     height:20vw;
-    width:10vw;
+    width:20vw;
     transform:rotate(90deg);
     align-self:center;
     .active{
