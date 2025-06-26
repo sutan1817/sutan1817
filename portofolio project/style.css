@@ -74,11 +74,9 @@ width:30vw;
   align-content:center;
   height:0.2rem;
   width:15vw;
-  .img2{width:60px;
-    height:60px;
+  img{width:2rem;
+    height:2rem;
   }
-  img{width:30px;
-  height:30px;}
 }
 
 #home{
