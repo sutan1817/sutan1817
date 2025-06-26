@@ -1,5 +1,7 @@
-const dropdownMenu = document.getElementsByClassName("dropdownmenuA")[0]; // Ambil elemen pertama
-document.querySelector('.dropbutton').onclick = () => {
-  dropdownMenu.classList.toggle('active'); // Jangan pakai titik di classList.toggle
-};
+const hamburger = document.getElementById('hamburger');
+const dropdownMenu = document.getElementById('dropdownMenu');
 
+hamburger.addEventListener('click', () => {
+  hamburger.classList.toggle('rotate');
+  dropdownMenu.classList.toggle('active');
+});
