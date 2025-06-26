@@ -186,7 +186,7 @@ width:30vw;
   .dropbutton{
     display:flex;
     gap:0.5rem;
-    height:10vw;
+    height:20vw;
     width:10vw;
     transform:rotate(90deg);
     align-self:center;
