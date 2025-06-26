@@ -183,7 +183,7 @@ width:30vw;
   .companyinfo{font-size:3em;}
 }
 @media(max-width:1280px){
-  #dropbutton{
+  .dropbutton{
     justify-content:center;
     align-content:center;
     display:flex;
