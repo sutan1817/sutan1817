@@ -74,7 +74,7 @@ width:30vw;
   align-content:center;
   height:0.3rem;
   width:20vw;
-  ig{width:1rem;
+  img{width:1rem;
     height:1rem;
   }
 }
@@ -186,7 +186,7 @@ width:30vw;
   .dropbutton{
     display:flex;
     gap:0.5rem;
-    height:5vw;
+    height:10vw;
     width:10vw;
     transform:rotate(90deg);
     align-self:center;
