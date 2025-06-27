@@ -191,9 +191,10 @@ width:30vw;
     gap:0.5rem;
     height:20vw;
     width:20vw;
+    transform:rotate(90deg);
     align-self:center;
     .rotate{
-      transform:rotate(deg90);
+      transform:rotate(120deg);
     }
   }
   .line{width:4px;
