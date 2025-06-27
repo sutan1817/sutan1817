@@ -193,7 +193,7 @@ width:30vw;
     width:20vw;
     transform:rotate(90deg);
     align-self:center;
-    .active{
+    .rotate{
       transform:rotate(180deg);
     }
   }
