@@ -129,10 +129,9 @@ width:30vw;
    gap:1.5rem;
    justify-content:space-between;
    backdrop-filter:blur(10px);
-   p1{ background:#213448;
-  border-radius:4px;
-  backdrop-filter:blur(10px);
-    }
+   .techstackitem{
+     
+   }
   }
   .projects{background:linear-gradient(to right,#547792,#213448);
   border:3px inset white;
