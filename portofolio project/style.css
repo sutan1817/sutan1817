@@ -133,6 +133,7 @@ width:30vw;
      background-color:#213448;
      padding:8px;
      border-radius:8px;
+     p1{font-weight:bold;}
    }
   }
   .projects{background:linear-gradient(to right,#547792,#213448);
