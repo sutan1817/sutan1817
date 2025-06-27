@@ -131,6 +131,7 @@ width:30vw;
    backdrop-filter:blur(10px);
    .techstackitem{
      background-color:#213448;
+     padding:8px;
    }
   }
   .projects{background:linear-gradient(to right,#547792,#213448);
