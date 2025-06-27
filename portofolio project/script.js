@@ -1,7 +1,7 @@
-const hamburger = document.getElementById('hamburger');
+const hamburger = document.getElementById('dropbutton');
 const dropdownMenu = document.getElementById('dropdownMenu');
 
-hamburger.addEventListener('click', () => {
+dropbutton.addEventListener('click', () => {
   hamburger.classList.toggle('rotate');
   dropdownMenu.classList.toggle('active');
 });
