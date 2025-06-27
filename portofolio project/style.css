@@ -195,7 +195,7 @@ width:30vw;
     align-self:center;
     transition:1s ease;
     .rotate{
-      transform:rotate(90deg);
+      transform:rotate(180deg);
     }
   }
   .line{width:4px;
