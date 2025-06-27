@@ -130,8 +130,6 @@ width:30vw;
    justify-content:space-between;
    backdrop-filter:blur(10px);
    .techstackitem{
-     width:8px;
-     height:8px;
      background-color:#213448;
    }
   }
