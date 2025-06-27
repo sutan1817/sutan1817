@@ -132,6 +132,7 @@ width:30vw;
    .techstackitem{
      background-color:#213448;
      padding:8px;
+     border-radius:8px;
    }
   }
   .projects{background:linear-gradient(to right,#547792,#213448);
