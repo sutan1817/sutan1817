@@ -60,7 +60,7 @@ width:30vw;
   height:80vw;
   bottom:;
   top:;
-  z-index:2;
+  z-index:9999;
   margin:;
   background-color:#94B4C1;
   border-radius:1rem;
