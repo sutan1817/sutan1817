@@ -46,7 +46,7 @@ flex:wrap;
 justify-content:space-around;
 width:30vw;
 }
-#dropdownmenuA.active{display:flex;}
+#dropdownmenuA.acive{display:flex;}
 #dropdownmenuA{
   border:3px inset white;
   margin:20px;
