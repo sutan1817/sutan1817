@@ -1,89 +1,28 @@
-$color-dark: #213448; $color-light: #94B4C1; $color-accent: #547792; $font-main: 'Poppins', sans-serif;
+@media (min-width: 1280px) {
+  #navbutton,
+  #navicon {
+    display: flex;
+  }
 
-body { background-color: $color-dark; font-family: $font-main; color: white; display: flex; flex-direction: column; align-items: center; margin: 0; padding: 0; }
+  #dropbutton,
+  .dropdownmenuA,
+  #alternative-contact {
+    display: none;
+  }
 
-a { text-decoration: none; color: white; }
+  #home {
+    flex-direction: row;
+    text-align: left;
+  }
 
-hr { color: white; background-color: white; width: 120px; height: 5px; transform: scaleX(0); transition: transform 0.3s ease;
+  #home img {
+    width: 400px;
+    height: auto;
+  }
 
-&:hover { transform: scaleX(0.5); } }
-
-#navsection { display: flex; justify-content: space-between; align-items: center; width: 80vw; padding: 1rem; border: 1px solid $color-accent; border-radius: 20px; background: linear-gradient(to right, $color-accent, $color-light); backdrop-filter: blur(10px); }
-
-#navbutton { a { font-size: 1.5rem; margin: 0 1rem; } }
-
-#navicon { display: flex; gap: 1rem; }
-
-#dropbutton { display: none; flex-direction: column; justify-content: center; gap: 5px;
-
-&.rotated { transform: rotate(90deg); transition: transform 0.3s ease; } }
-
-.line { width: 30px; height: 4px; background-color: white; }
-
-.dropdownmenuA { display: none; flex-direction: column; align-items: center; background-color: $color-light; border-radius: 1rem; padding: 1rem; backdrop-filter: blur(20px); position: absolute; width: 60vw; top: 80px; left: 20vw; z-index: 100;
-
-&.active { display: flex; } }
-
-#home { display: flex; justify-content: space-between; align-items: center; width: 80vw; margin: 100px auto; border: 3px inset white; border-radius: 1rem; padding: 2rem; background: linear-gradient(to right, $color-accent, $color-dark);
-
-h2 { font-size: 3rem; }
-
-h1 { font-size: 2rem; }
-
-#span1 { background: linear-gradient(to right, $color-accent, white, $color-accent); -webkit-background-clip: text; color: transparent; }
-
-img { width: 300px; height: auto; border-radius: 15px; } }
-
-#work, #About, #contact { width: 80vw; margin: 100px auto; border-radius: 1rem; border: 3px inset white; padding: 2rem; background: linear-gradient(to right, $color-accent, $color-dark); display: flex; flex-direction: column; align-items: center; }
-
-.projects { display: flex; flex-direction: column; align-items: center;
-
-img { width: 100%; border-radius: 1rem; } }
-
-.techstack { display: flex; gap: 1rem; margin-top: 1rem;
-
-span { background-color: $color-dark; padding: 0.5rem 1rem; border-radius: 0.5rem; } }
-
-.companylogo { display: flex; gap: 1rem; align-items: center;
-
-img { width: 80px; height: 80px; object-fit: contain; } }
-
-.companyinfo ul { margin-top: 1rem; list-style: disc; padding-left: 1.5rem; }
-
-#contact img { width: 60px; height: 60px; margin: 0.5rem; }
-
-#alternative-contact { display: flex; flex-direction: column; align-items: center;
-
-img { width: 80px; height: 80px; border-radius: 50%; } }
-
-@media (max-width: 1279px) { #navbutton, #navicon { display: none; }
-
-#dropbutton { display: flex; }
-
-#home { flex-direction: column; text-align: center;
-
-img {
-  margin-top: 2rem;
-  width: 80%;
+  .projects,
+  .work,
+  #contact {
+    flex-direction: row;
+  }
 }
-
-}
-
-.dropdownmenuA { top: 60px; left: 10vw; width: 80vw; }
-
-#alternative-contact { display: block; text-align: center; margin-top: 2rem; } }
-
-@media (min-width: 1280px) { #navbutton, #navicon { display: flex; }
-
-#dropbutton, .dropdownmenuA, #alternative-contact { display: none; }
-
-#home { flex-direction: row; text-align: left;
-
-img {
-  width: 400px;
-}
-
-}
-
-.projects, .work, #contact { flex-direction: row; } }
-
