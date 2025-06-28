@@ -1,6 +1,6 @@
 $color-dark: #213448; $color-light: #94B4C1; $color-accent: #547792; $font-main: 'Poppins', sans-serif;
 
-body { background-color: $color-dark; font-family: $font-main; color: white; }
+body { background-color: $color-dark; font-family: $font-main; color: white; display: flex; flex-direction: column; align-items: center; margin: 0; padding: 0; }
 
 a { text-decoration: none; color: white; }
 
@@ -34,9 +34,11 @@ h1 { font-size: 2rem; }
 
 img { width: 300px; height: auto; border-radius: 15px; } }
 
-#work, #About, #contact { width: 80vw; margin: 100px auto; border-radius: 1rem; border: 3px inset white; padding: 2rem; background: linear-gradient(to right, $color-accent, $color-dark); }
+#work, #About, #contact { width: 80vw; margin: 100px auto; border-radius: 1rem; border: 3px inset white; padding: 2rem; background: linear-gradient(to right, $color-accent, $color-dark); display: flex; flex-direction: column; align-items: center; }
 
-.projects { img { width: 100%; border-radius: 1rem; } }
+.projects { display: flex; flex-direction: column; align-items: center;
+
+img { width: 100%; border-radius: 1rem; } }
 
 .techstack { display: flex; gap: 1rem; margin-top: 1rem;
 
@@ -50,7 +52,9 @@ img { width: 80px; height: 80px; object-fit: contain; } }
 
 #contact img { width: 60px; height: 60px; margin: 0.5rem; }
 
-#alternative-contact img { width: 80px; height: 80px; border-radius: 50%; }
+#alternative-contact { display: flex; flex-direction: column; align-items: center;
+
+img { width: 80px; height: 80px; border-radius: 50%; } }
 
 @media (max-width: 1279px) { #navbutton, #navicon { display: none; }
 
