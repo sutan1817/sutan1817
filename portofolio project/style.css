@@ -70,12 +70,12 @@ width:30vw;
 }
 #navicon{
   display:flex;
-  gap:0.5rem;
+  gap:1rem;
   align-content:center;
   height:0.3rem;
   width:20vw;
-  img{width:1rem;
-    height:1rem;
+  img{width:2rem;
+    height:2rem;
   }
 }
 
