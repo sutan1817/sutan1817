@@ -63,3 +63,32 @@ nav {
   font-size: 1.2rem;
 
   position: relative;}
+  .nav-links a::after {
+
+  content: '';
+
+  position: absolute;
+
+  width: 0;
+
+  height: 2px;
+
+  bottom: -4px;
+
+  left: 0;
+
+  background-color: #00ffe1;
+
+  transition: width 0.3s;
+
+
+  background-color: #00ffe1;
+transition: width 0.3s;
+
+}
+
+.nav-links a:hover::after {
+
+  width: 100%;
+
+}
