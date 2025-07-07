@@ -108,4 +108,89 @@ transition: width 0.3s;
 
   color: #00ffe1;
 
+}.hero-text h1 {
+
+  font-size: 3rem;
+
+  line-height: 1.4;
+
+  text-shadow: 0 0 5px #00ffe1;
+
 }
+
+.hero-text span {
+
+  color: #ff00c8;
+
+}
+
+.hero-img img {
+
+  max-width: 300px;
+
+  border: 4px solid #ff00c8;
+
+border-radius: 50%;
+
+  box-shadow: 0 0 20px #ff00c8;
+
+}
+
+.btn {
+
+  margin-top: 20px;
+
+  padding: 10px 20px;
+
+  background-color: transparent;
+
+  color: #ff0054;
+
+  border: 2px solid #ff0054;
+
+text-decoration: none;
+
+  font-size: 1.2rem;
+
+  transition: 0.3s;
+
+}
+
+.btn:hover {
+
+  background-color: #ff0054;
+
+  color: #fff;
+
+}
+section {
+
+  padding: 60px 40px;
+
+  color: #00ffe1;
+
+}
+
+h2 {
+
+  color: #ff00c8;
+
+  border-bottom: 2px solid #ff00c8;
+
+  display: inline-block;
+
+  margin-bottom: 20px;
+
+}
+
+.skills-list {
+
+  max-width: 600px;
+
+}
+
+.skill-bar {
+
+  background: #222;
+
+  border-radius: 10px;
