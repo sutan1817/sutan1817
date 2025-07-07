@@ -92,3 +92,20 @@ transition: width 0.3s;
   width: 100%;
 
 }
+.hero {
+
+  display: flex;
+
+  flex-wrap: wrap;
+
+  align-items: center;
+
+  justify-content: space-between;
+
+  padding: 60px 40px;
+
+  background-color: #0c0c0c;
+
+  color: #00ffe1;
+
+}
