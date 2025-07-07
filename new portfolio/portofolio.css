@@ -194,3 +194,130 @@ h2 {
   background: #222;
 
   border-radius: 10px;
+  overflow: hidden;
+
+  margin-bottom: 20px;
+
+  box-shadow: 0 0 10px #ff00c8;
+
+}
+
+.skill-bar span {
+
+  display: block;
+
+  height: 30px;
+
+line-height: 30px;
+
+  padding-left: 15px;
+
+  background: linear-gradient(90deg, #00ffe1, #ff00c8);
+
+  color: #111;
+
+  font-weight: bold;
+
+  font-size: 1.2rem;
+
+  animation: growBar 2s ease-out forwards;
+
+  width: 0;
+}
+
+.skill-bar span[style] {
+
+  animation-delay: 0.2s;
+
+}
+
+@keyframes growBar {
+
+  0% { width: 0; }
+
+  100% { width: var(--bar-width); }
+
+}
+form input,
+
+form textarea {
+
+  display: block;
+
+  width: 100%;
+
+  padding: 20px;
+
+  margin: 10px 0;
+
+  background: #222;
+
+  color: #00ffe1;
+
+  border: 1px solid #00ffe1;
+
+}
+
+form button {
+
+  background-color: #ff0054;
+
+  color: #fff;
+
+  border: none;
+
+  padding: 10px 20px;
+  font-family: 'VT323', monospace;
+
+  font-size: 1.2rem;
+
+  cursor: pointer;
+
+}
+
+footer {
+
+  text-align: center;
+
+padding: 20px;
+
+  background-color: #0c0c0c;
+
+  color: #ff00c8;
+
+  font-size: 1rem;
+
+  border-top: 1px solid #ff00c8;
+
+}
+#contact{
+  width:80vh;
+  justify-self:center;
+  }
+#about{
+  width:50vh;
+  justify-self:end;
+  }
+
+/* Font Awesome Icons */
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css");
+
+.nav-links a::before {
+
+  margin-right: 6px;
+
+  font-family: "Font Awesome 6 Free";
+
+  font-weight: 900;
+}
+
+.nav-links a[href="#home"]::before { content: "\f015"; }
+
+.nav-links a[href="#about"]::before { content: "\f129"; }
+
+.nav-links a[href="#skills"]::before { content: "\f121"; }
+
+.nav-links a[href="#work"]::before { content: "\f0b1"; }
+
+.nav-links a[href="#contact"]::before { content: "\f0e0"; }
